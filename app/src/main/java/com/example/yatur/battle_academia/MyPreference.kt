@@ -21,4 +21,34 @@ class MyPreference(context: Context) {
         editor.putInt(PREFERENCE_HP, hp)
         editor.apply()
     }
+
+    fun getGd() : Int{
+        return preference.getInt(PREFERENCE_GD, 0)
+    }
+
+    fun setGd(gd: Int) {
+        val editor = preference.edit()
+        editor.putInt(PREFERENCE_GD, gd)
+        editor.apply()
+    }
+
+    fun getWn() : Int{
+        return preference.getInt(PREFERENCE_WN, 0)
+    }
+
+    fun setWn(wn: Int) {
+        val editor = preference.edit()
+        editor.putInt(PREFERENCE_WN, wn)
+        editor.apply()
+    }
+
+    fun getLs() : Int{
+        return preference.getInt(PREFERENCE_LS, 0)
+    }
+
+    fun setLs(ls: Int) {
+        val editor = preference.edit()
+        editor.putInt(PREFERENCE_LS, ls)
+        editor.apply()
+    }
 }

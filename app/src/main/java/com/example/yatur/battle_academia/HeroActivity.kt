@@ -14,7 +14,7 @@ class HeroActivity : Activity() {
         setContentView(R.layout.activity_hero)
 
         val thispreference = MyPreference(this)
-        getHp(thispreference)
+        getAll(thispreference)
 
         // Button navigation to other activities
         studyBtn.setOnClickListener {
@@ -23,7 +23,10 @@ class HeroActivity : Activity() {
         }
     }
 
-    fun getHp(preference: MyPreference) {
+    fun getAll(preference: MyPreference) {
         healthTv.text = preference.getHp().toString()
+        goldTv.text = preference.getGd().toString()
+        winTv.text = preference.getWn().toString()
+        lossTv.text = preference.getLs().toString()
     }
 }

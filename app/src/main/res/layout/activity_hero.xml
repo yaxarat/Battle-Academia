@@ -103,7 +103,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="30dp"
-        android:text="KIng Coder"
+        android:text="King Coder"
         android:textAlignment="center"
         android:textColor="#ffffff"
         android:textSize="36sp"

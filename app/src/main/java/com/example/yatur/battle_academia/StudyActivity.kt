@@ -15,7 +15,7 @@ class StudyActivity : Activity() {
 
         applyBtn.setOnClickListener {
             addToHp(thispreference)
-            val intent = Intent(applicationContext, HeroActivity::class.java)
+            val intent = Intent(applicationContext, MainActivity::class.java)
             startActivity(intent)
         }
     }
