@@ -84,7 +84,7 @@ class BattleActivity : Activity() {
         alert.setTitle("Please Enter Boss Rank")
 
         alert.setView(edittext)
-        alert.setPositiveButton("Add") {dialog, whichButton ->
+        alert.setPositiveButton("Fight") {dialog, whichButton ->
             val value = edittext.text.toString().toInt()
             todoData!!.removeAt(value)
             val newHp = preference.getHp() - strengthData!![value]
