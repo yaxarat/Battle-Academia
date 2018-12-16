@@ -9,7 +9,7 @@ The application has 4 main activities.
 ## Main screen
 Once the application opens, user is greeted with this main screen where the user can choose their action.
 
-![image](main.png)
+![image](images/main.png)
 
 ## Hero Activity
 Hero screen contains user character's photo and its stats.
