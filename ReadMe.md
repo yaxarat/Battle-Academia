@@ -19,23 +19,23 @@ Hero screen contains user character's photo and its stats.
 - Loss: Total count of battles lost.
 The study button will take user to the study activity.
 
-![Image](images/hero)
+![Image](images/hero.png)
 
 ## Study Activity
 Here, users can apply amount of time they have spent on studying. Below is an example of 90 minutes study session and we can see that it has been reflected to the hero statistic.
 
-![Image](images/study)
+![Image](images/study.png)
 
-![Image](images/hero2)
+![Image](images/hero2.png)
 
 ## Battle Activity
 This is where user can enter any upcoming landmarks. It can be exams or quizzes (referred to as Boss) where the user has to prepare for. User can enter name for the boss as well as amount of time the user should study to overcome it in a form of "strength".
 
-![Image](images/battle)
+![Image](images/battle.png)
 
 User can then study for these and "fight" them once the user have enough health.
 
 ## Store Activity
 This is the page where user can store their "wish list". It could be a product or any other self-reaward the user is looking for. Once the user win against enough bosses, they can gain golds to actually reward themselves in real world. Pricing set within the app can be arbitary, as long as it seems fair to the user.
 
-![Image](images/study)
+![Image](images/study.png)
