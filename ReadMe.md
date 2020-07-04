@@ -9,7 +9,7 @@ The application has 4 main activities.
 ## Main screen
 Once the application opens, user is greeted with this main screen where the user can choose their action.
 
-![image](images/main.png)
+<img src="images/main.png" width="400">
 
 ## Hero Activity
 Hero screen contains user character's photo and its stats.
@@ -19,23 +19,23 @@ Hero screen contains user character's photo and its stats.
 - Loss: Total count of battles lost.
 The study button will take user to the study activity.
 
-![Image](images/hero.png)
+<img src="images/hero.png" width="400">
 
 ## Study Activity
 Here, users can apply amount of time they have spent on studying. Below is an example of 90 minutes study session and we can see that it has been reflected to the hero statistic.
 
-![Image](images/study.png)
+<img src="images/study.png" width="400">
 
-![Image](images/hero2.png)
+<img src="images/hero2.png" width="400">
 
 ## Battle Activity
 This is where user can enter any upcoming landmarks. It can be exams or quizzes (referred to as Boss) where the user has to prepare for. User can enter name for the boss as well as amount of time the user should study to overcome it in a form of "strength".
 
-![Image](images/battle.png)
+<img src="images/battle.png" width="400">
 
 User can then study for these and "fight" them once the user have enough health.
 
 ## Store Activity
 This is the page where user can store their "wish list". It could be a product or any other self-reaward the user is looking for. Once the user win against enough bosses, they can gain golds to actually reward themselves in real world. Pricing set within the app can be arbitary, as long as it seems fair to the user.
 
-![Image](images/study.png)
+<img src="images/study.png" width="400">
