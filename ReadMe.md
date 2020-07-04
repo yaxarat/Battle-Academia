@@ -19,7 +19,8 @@ Hero screen contains user character's photo and its stats.
 - Loss: Total count of battles lost.
 The study button will take user to the study activity.
 
-<img src="images/hero.png" width="400">
+<img src="images/hero2.png" width="400">
+
 
 ## Study Activity
 Here, users can apply amount of time they have spent on studying. Below is an example of 90 minutes study session and we can see that it has been reflected to the hero statistic.
